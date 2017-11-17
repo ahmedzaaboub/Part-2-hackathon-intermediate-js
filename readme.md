@@ -7,5 +7,5 @@
 
 
 <p align="center">
-	<img src="images/js_logo (1).PNG" alt="">
+	<img src="images/logo.PNG" alt="">
 </p>
